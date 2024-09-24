@@ -14,7 +14,7 @@
 Marta Vallés
 ![Marta Vallés Terol](marta.jpg)
 Logo de Markdown
-![MarkDown Logo](https://plugins.jetbrains.com/files/18897/166369/icon/pluginIcon.png)
+![MarkDown Logo]([https://plugins.jetbrains.com/files/18897/166369/icon/pluginIcon.png](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png))
 
 <!-- 4.- Inclou una descripció personal on combines negreta i cursiva per a ressaltar alguns detalls que cregues que són importants (en esta part, inclou quins estudis has cursat préviament i qué t'agradaria fer quan acabes en el cicle). -->
 ## Descripció
